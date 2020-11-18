@@ -39,7 +39,7 @@ catch (Exception $ex) {
                           >
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-3">
-                                <h2>Create book form</h2>
+                                <h2>Create book formss</h2>
                             </div>
                         </div>
                         <div class="form-group">
